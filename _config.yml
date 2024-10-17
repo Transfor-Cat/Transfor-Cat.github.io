@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "zh-CM"
-title                    : "Transfor🐱"
+title                    : "Transfor🐱's HomePage"
 title_separator          : "-"
-name                     : &name ""
-description              : &description ""
+name                     : ""
+description              : ""
 url                      : https://transfor-cat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Transfor-Cat/Transfor-Cat.github.io"
