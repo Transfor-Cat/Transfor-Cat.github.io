@@ -31,3 +31,9 @@ redirect_from:
 
 ### 省部级
 * VISVUL-代码安全漏洞检测平台 - 计设省一 [[Page]](compititions/VISVUL.md)
+
+
+# 📚 Contact us
+我们欢迎对我们的项目感兴趣的同学加入我们的团队共同维护本仓库，如果您有任何问题或者合作意向，请联系我们。
+
+Email: 1097384556@qq.com
