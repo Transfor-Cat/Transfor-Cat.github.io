@@ -17,7 +17,7 @@ redirect_from:
 # 🏆 Selected Award
 ### 国家级一等
 
-* MAC4FAD-基于多智能体合作的涉诈APP检测系统 - 软件杯国一    [Github]
+* MAC4FAD-基于多智能体合作的涉诈APP检测系统 - 软件杯国一    [[Github]](./mac4fad)
 * iGuard-医疗保险欺诈识别监测系统 - 服创国一  [Github]
 
 ### 国家级二等
