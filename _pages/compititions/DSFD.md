@@ -1,11 +1,11 @@
 ---
-permalink: /iguard/
-title: "iGuard"
+permalink: /dsfd/
+title: "DSFD"
 author_profile: true
 ---
 
-# 医疗保险欺诈识别监测系统
-2024服务外包创新创业大赛全国一等奖，作品展示
+# 分布式系统故障诊断系统
+2023中国软件杯大学生软件设计大赛全国三等奖，作品展示
 
 
 ## 项目简介
@@ -21,12 +21,7 @@ author_profile: true
 由此，我们旨在结合新兴技术，深入挖掘业务场景与算法需求，为医保欺诈检测提供一套新的解决方案。
 
 
-
-## 技术路线
-![img.png](../../repo/iGuard/img.png)
-
-
 ## 部分页面展示
-![img_1.png](../../repo/iGuard/img_1.png)
-![img_2.png](../../repo/iGuard/img_2.png)
-![img_3.png](../../repo/iGuard/img_3.png)
+![img_1.png](../../repo/DSFD/img.png)
+![img_2.png](../../repo/DSFD/img_1.png)
+![img_3.png](../../repo/DSFD/img_2.png)

@@ -17,17 +17,17 @@ redirect_from:
 # 🏆 Selected Award
 ### 国家级一等
 
-* MAC4FAD-基于多智能体合作的涉诈APP检测系统 - 软件杯国一    [[Github]](compititions/MAC4FAD.md)
-* iGuard-医疗保险欺诈识别监测系统 - 服创国一  [[Github]](compititions/iGuard.md)
+* MAC4FAD-基于多智能体合作的涉诈APP检测系统 - 软件杯国一    [[Page]](compititions/MAC4FAD.md)
+* iGuard-医疗保险欺诈识别监测系统 - 服创国一  [[Page]](compititions/iGuard.md)
 
 ### 国家级二等
 * 多级约束条件下农作物种植最优化问题的分层求解模型 - 数学建模国赛国二  [[PDF]](../files/2024国赛.pdf)
 * 基于二元正态统计分布-LSTM 预测与非线性规划的蔬菜商品自动定价与补货决策模型 - 数学建模国赛国二 [[PDF]](../files/2023国赛.pdf)
 
 ### 国家级三等
-* 分布式系统故障诊断系统 - 软件杯国三 [Github]
+* 分布式系统故障诊断系统 - 软件杯国三 [[Page]](compititions/DSFD.md)
 * DeepLSRN: Helping To Master The Market Dynamics Of SecondHand Sailboats Trading Based On DNN - 数学建模美赛H [[PDF]](../files/DeepLSRN.pdf)
 * Uncovering Momentum Flow in Tennis: Can We Suddenly Rise Up? - 数学建模美赛H [[PDF]](../files/2024美赛.pdf)
 
 ### 省部级
-* VISVUL-代码安全漏洞检测平台 - 计设省一 [Github]
+* VISVUL-代码安全漏洞检测平台 - 计设省一 [[Page]](compititions/VISVUL.md)
